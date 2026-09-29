@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- استبدل [SITE_URL] بعنوان الموقع الفعلي مثل https://username.github.io/repo/ ثم احذف هذا التعليق -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>[SITE_URL]/index.html</loc></url>
+  <url><loc>[SITE_URL]/about.html</loc></url>
+  <url><loc>[SITE_URL]/specialties.html</loc></url>
+  <url><loc>[SITE_URL]/knowledge.html</loc></url>
+  <url><loc>[SITE_URL]/colleagues.html</loc></url>
+  <url><loc>[SITE_URL]/events.html</loc></url>
+  <url><loc>[SITE_URL]/gallery.html</loc></url>
+  <url><loc>[SITE_URL]/appointment.html</loc></url>
+  <url><loc>[SITE_URL]/contact.html</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=criminal</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=civil</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=family</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=administrative</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=commercial</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=labor</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=real-estate</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=companies</loc></url>
+  <url><loc>[SITE_URL]/specialty.html?slug=consultations</loc></url>
+  <url><loc>[SITE_URL]/article.html?slug=prepare-for-consultation</loc></url>
+  <url><loc>[SITE_URL]/article.html?slug=before-signing-contract</loc></url>
+</urlset>

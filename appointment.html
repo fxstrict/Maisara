@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>طلب موعد — مكتب ميسرة خلاف</title>
+<meta name="description" content="اطلب موعدًا لمناقشة موضوع قانوني. الطلب لا يعد حجزًا مؤكدًا.">
+<meta name="theme-color" content="#0f1a2e">
+<link rel="canonical" href="">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ar_EG">
+<meta property="og:site_name" content="مكتب الأستاذ ميسرة خلاف للمحاماة والاستشارات القانونية">
+<meta property="og:title" content="طلب موعد — مكتب ميسرة خلاف">
+<meta property="og:description" content="اطلب موعدًا لمناقشة موضوع قانوني. الطلب لا يعد حجزًا مؤكدًا.">
+<meta property="og:url" content="">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="appointment">
+<main id="main">
+<section class="intro"><div class="wrap narrow">
+<span class="kicker">طلب موعد</span><h1>اطلب موعدًا</h1>
+<p class="notice">هذا نموذج طلب موعد وليس حجزًا مؤكدًا. بعد الإرسال سيتم التواصل معك لتأكيد الموعد.</p>
+<form id="appt-form">
+<div class="field"><label for="a-name">الاسم</label><input id="a-name" required autocomplete="name"></div>
+<div class="field"><label for="a-phone">رقم الهاتف</label><input id="a-phone" type="tel" inputmode="tel" dir="ltr" required autocomplete="tel"></div>
+<div class="field"><label for="a-service">نوع الخدمة</label><select id="a-service"><option>استشارة قانونية</option><option>متابعة قضية</option><option>مراجعة مستندات أو عقود</option><option>أخرى</option></select></div>
+<div class="field"><label for="a-spec">التخصص</label><select id="a-spec"></select></div>
+<div class="field"><label for="a-when">الموعد المقترح</label><input id="a-when" placeholder="مثال: اليوم والفترة المناسبة لك"></div>
+<div class="field"><label for="a-way">طريقة التواصل المفضلة</label><select id="a-way"><option>واتساب</option><option>اتصال هاتفي</option></select></div>
+<div class="field"><label for="a-details">وصف مختصر للموضوع</label><textarea id="a-details"></textarea></div>
+<button class="btn solid" type="submit">تجهيز الطلب عبر واتساب</button>
+<p id="appt-out" class="form-note mt-s" role="status"></p>
+</form></div></section>
+</main>
+<noscript><p class="wrap">يحتاج الموقع إلى تفعيل JavaScript لعرض القوائم والبيانات. للتواصل: 01001168190.</p></noscript>
+<script src="js/app.js" defer></script>
+</body>
+</html>

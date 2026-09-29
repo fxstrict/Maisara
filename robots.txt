@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# استبدل العنوان التالي بعنوان الموقع الفعلي بعد النشر
+Sitemap: [SITE_URL]/sitemap.xml

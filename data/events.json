@@ -1,0 +1,6 @@
+{
+  "_note": "أضف الفعاليات هنا. placeholder = true تعني نموذجًا لا يُنشر.",
+  "items": [
+    { "title": "[عنوان الفعالية]", "date": "", "location": "[مكان الفعالية]", "description": "[وصف مختصر يُضاف عند توفر البيانات الحقيقية]", "image": "", "category": "نشاط نقابي", "placeholder": true }
+  ]
+}

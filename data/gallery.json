@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "المحكمة",
+    "المكتب",
+    "النقابة",
+    "المؤتمرات",
+    "اللقاءات",
+    "الفعاليات"
+  ],
+  "items": [
+    {
+      "category": "المحكمة",
+      "image": "assets/portrait-court.jpg",
+      "webp": "assets/portrait-court.webp",
+      "alt": "الأستاذ ميسرة بالزي الرسمي للمحاماة داخل قاعة المحكمة",
+      "caption": "بالزي الرسمي داخل قاعة المحكمة"
+    },
+    {
+      "category": "المكتب",
+      "image": "assets/portrait-desk.jpg",
+      "webp": "assets/portrait-desk.webp",
+      "alt": "الأستاذ ميسرة على مكتبه",
+      "caption": "في المكتب"
+    },
+    {
+      "category": "اللقاءات",
+      "image": "assets/portrait-office-colleague.jpg",
+      "webp": "assets/portrait-office-colleague.webp",
+      "alt": "الأستاذ ميسرة مع أحد كبار رجال القانون في مكتبه",
+      "caption": "لقاء مهني"
+    }
+  ]
+}
